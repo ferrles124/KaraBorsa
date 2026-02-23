@@ -1,0 +1,10 @@
+{
+  "Name": "Kara Borsa",
+  "Author": "MeD",
+  "Version": "1.0.0",
+  "Description": "Sonbaharın son günü tünelde gizemli bir kara borsa kurulur.",
+  "UniqueID": "MeD.KaraBorsa",
+  "EntryDll": "KaraBorsa.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
